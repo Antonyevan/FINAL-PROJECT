@@ -10,11 +10,11 @@ Due to GitHub's file size limitation of 25 MB per file, the final code and data 
 Repository Structure
 Jupyter Notebooks:
 
-final_sne_ia_3_models.ipynb
+Final_SNe_Ia_3_models.ipynb
 Contains the core calculations and application of clustering algorithms to classify SNe Ia based on the Ca II 8662 Å spectral line velocity and I band magnitude.
-final_sne_ia_ca_ii_8498.ipynb
+Final_SNe_Ia_Ca_II_8498.ipynb
 Visualizes the analysis related to the Ca II 8498 Å spectral line.
-final_sne_ia_ca_ii_8662_.ipynb
+Final_SNe_Ia_Ca_II_8662_.ipynb
 Visualizes the analysis and clustering results for the Ca II 8662 Å spectral line.
 Data Files:
 
@@ -33,18 +33,18 @@ cd FINAL-PROJECT
 
 Usage
 1. Running the Models and Clustering Algorithms
-Open the Jupyter notebook final_sne_ia_3_models.ipynb to execute the main calculations and clustering analysis:
+Open the Jupyter notebook Final_SNe_Ia_3_models.ipynb to execute the main calculations and clustering analysis:
 
-jupyter notebook final_sne_ia_3_models.ipynb
+jupyter notebook Final_SNe_Ia_3_models.ipynb
 
 2. Visualizing Spectral Line Data
 For the Ca II 8498 Å spectral line, open and run:
 
-jupyter notebook final_sne_ia_ca_ii_8498.ipynb
+jupyter notebook Final_SNe_Ia_Ca_II_8498.ipynb
 
 For the Ca II 8662 Å spectral line, open and run:
 
-jupyter notebook final_sne_ia_ca_ii_8662_.ipynb
+jupyter notebook Final_SNe_Ia_Ca_II_8662_.ipynb
 
 Features
 Clustering Algorithms: Apply DBSCAN, K-Means, and Gaussian Mixture Models (GMM) to classify SNe Ia.
@@ -64,6 +64,6 @@ Data Access
 NIR Spectra List: Data/Lu2023_TableA1_extension.csv
 Observed Spectra: Data/observed_spectra/spec_fits
 
-Contributors
+Contributors-
 Antony Evan Alosius
 
